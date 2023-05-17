@@ -4,7 +4,7 @@ import { Routes, Route} from 'react-router-dom'
 import { useState } from 'react';
 import Navigation from './components/Navigation/navigation.component'
 import ParticlesEffect from './components/ParticlesEffect/particlesEffect.component';
-import SignIn from './components/Signin/signin.component';
+import SignIn from './components/Signin/signin.component.jsx';
 import SignUp from './components/SignUp/signup.component';
 import Home from './components/Home/home.component';
 
